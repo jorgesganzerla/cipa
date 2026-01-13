@@ -56,12 +56,6 @@ Estrutura com 6 tabelas:
 
 ### Configuração do Banco
 1. Execute o script `database_fix.sql` no MySQL
-2. Configure as credenciais de conexão:
-   - Host: localhost
-   - Usuário: root
-   - Senha: 123456789
-   - Banco: cipat_db
-   - Porta: 3306
 
 ### Instalação
 1. Coloque os arquivos na pasta `htdocs/CIPA/`
