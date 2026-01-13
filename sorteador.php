@@ -1,5 +1,5 @@
 <?php
-    $conexao = new mysqli('localhost', 'root', '123456789', 'cipat_db', 3306);
+    $conexao = new mysqli('', '', '', '', );
     
     if ($conexao->connect_error) {
         die("Erro de conexão: " . $conexao->connect_error);
